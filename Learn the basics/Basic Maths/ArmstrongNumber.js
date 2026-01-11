@@ -12,6 +12,7 @@ function ArmstrongNumber(n) {
 
 function main() {
   let n = 153;
+  // 1^3 + 5^3 + 3^3 = 153, sum of power of digits = original number
   console.log(ArmstrongNumber(n));
 }
 
