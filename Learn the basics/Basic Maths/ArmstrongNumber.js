@@ -11,7 +11,7 @@ function ArmstrongNumber(n) {
 }
 
 function main() {
-  let n = 151;
+  let n = 153;
   console.log(ArmstrongNumber(n));
 }
 
