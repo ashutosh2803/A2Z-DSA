@@ -1,3 +1,45 @@
+/*
+  Singly Linked List Implementation
+
+  Operations covered in this program (in order):
+
+  1. Create a Linked List from an array
+     Time Complexity: O(n)
+     Space Complexity: O(n)
+
+  2. Insert a node at the head
+     Time Complexity: O(1)
+     Space Complexity: O(1)
+
+  3. Delete the last node
+     Time Complexity: O(n)
+     Space Complexity: O(1)
+
+  4. Search for an element
+     Time Complexity: O(n)
+     Space Complexity: O(1)
+
+  5. Find the length of the linked list
+     Time Complexity: O(n)
+     Space Complexity: O(1)
+
+  6. Find the middle element (Slow & Fast Pointer)
+     Time Complexity: O(n)
+     Space Complexity: O(1)
+
+  7. Reverse the linked list (Iterative)
+     Time Complexity: O(n)
+     Space Complexity: O(1)
+
+  8. Delete the Nth node from the end (Two Pointer Technique)
+     Time Complexity: O(n)
+     Space Complexity: O(1)
+
+  9. Detect a cycle in the linked list (Floyd’s Cycle Detection)
+     Time Complexity: O(n)
+     Space Complexity: O(1)
+*/
+
 // Node class represents a node in the linked list
 class Node {
   constructor(data, next = null) {
