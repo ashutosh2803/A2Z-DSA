@@ -1,5 +1,5 @@
 /*
-  Doubly Linked List Implementation
+  1D Doubly Linked List Implementation
 
   Operations covered in this program (in order):
 
