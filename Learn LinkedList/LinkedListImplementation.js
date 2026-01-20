@@ -1,5 +1,5 @@
 /*
-  Singly Linked List Implementation
+  1D Linked List Implementation
 
   Operations covered in this program (in order):
 
