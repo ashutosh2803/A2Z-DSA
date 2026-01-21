@@ -1,6 +1,7 @@
 // Node class represents a node
 // in a linked list
 class Node {
+    // default condition set to null so that if no next node is provided, it defaults to null
     constructor(data, next = null) {
         // Data stored in the node
         this.data = data;   
