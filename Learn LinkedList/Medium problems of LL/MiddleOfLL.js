@@ -14,6 +14,7 @@ class Node {
 // Brute Force Approach
 // Time Complexity: O(N) + O(N/2) => O(N)
 // Space Complexity: O(1)
+
 function findMiddle(head) {
     if (head === null || head.next === null) {
         return head;
